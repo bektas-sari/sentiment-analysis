@@ -56,7 +56,7 @@ Sentiment Analysis is a Flask-based web application that analyzes the sentiment 
 - **HTML, CSS, JavaScript** (Frontend)
 
 ## Author
-**Bektas Sari**  
+**Bektas SARI**  
 📧 Contact: bektas.sari@gmail.com  
 🔗 GitHub: [bektas-sari](https://github.com/bektas-sari)
 
